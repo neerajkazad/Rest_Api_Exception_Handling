@@ -8,7 +8,7 @@
         <version>3.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>in.ashokit</groupId>
+    <groupId>com.nk</groupId>
     <artifactId>Rest_Api_Exception_Handling</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Rest_Api_Exception_Handling</name>
